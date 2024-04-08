@@ -1,5 +1,5 @@
 
-# ¡Hola, soy Daniela Zapata Quintana! <img src="logo daniela zapata.png" alt="logo" width="50"/>
+<img src="logo daniela zapata.png" alt="logo" width="50"/> # ¡Hola, soy Daniela Zapata Quintana! 
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy Ingeniera Industrial con una pasión por la tecnología y el desarrollo web. Me encuentro en constante aprendizaje, especializándome en Desarrollo Web Full Stack con enfoque en Ciberseguridad. Además, disfruto impartir clases particulares de apoyo escolar a niños desde la primaria hasta el bachillerato, así como también enseñar tecnología a personas mayores.
 
