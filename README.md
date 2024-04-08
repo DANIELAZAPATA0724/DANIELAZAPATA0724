@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="logo daniela zapata.png" alt="logo" width="200" height="100"/>
+  <img src="logo daniela zapata.png" alt="logo" width="200" height="150"/>
 </div>
 # ¡Hola, soy Daniela Zapata Quintana! 
 
