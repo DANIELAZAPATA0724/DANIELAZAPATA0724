@@ -27,7 +27,7 @@ He trabajado en áreas financieras y de tecnología, colaborando estrechamente c
 
 ### 🎓 Educación
 - Ingeniería Industrial
-- Estudios en Desarrollo Web Full Stack y Ciberseguridad
+- BootCamp en Desarrollo Web Full Stack y Ciberseguridad
 
 ### 👩‍🏫 Clases Particulares
 Ofrezco clases de apoyo escolar en diversas áreas, así como también enseñanza de tecnología a personas de todas las edades, incluidas personas mayores, para ayudarles a desarrollar habilidades en el uso de nuevas tecnologías.
@@ -36,12 +36,11 @@ Ofrezco clases de apoyo escolar en diversas áreas, así como también enseñanz
 Actualmente me encuentro aprendiendo nuevas tecnologías y metodologías para seguir creciendo como profesional en el mundo del desarrollo web y la ciberseguridad.
 
 ### 👥 Colaboración
-Estoy interesada en colaborar en proyectos relacionados con desarrollo web, cibersegurida y educación inclusiva.
+Estoy interesada en colaborar en proyectos relacionados con desarrollo web, ciberseguridad y educación inclusiva.
 
 ### 👀 Intereses
 - Desarrollo web y móvil
 - Ciberseguridad
-- Tecnologías educativas
 - Impacto social de la tecnología
 - Innovación tecnológica
 
